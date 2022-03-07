@@ -35,4 +35,4 @@ CONDITIONS D'UTILISATION
 ------------------------------
 DEVELOPPEMENT
 ---
-*Cette application résulte de la collaboration entre Colin Roudnel, Krah K. D. Abraham & Souk Nidal dans le cadre d'un projet en Techniques de programmation (Mars 2022). Rédigée sur Jupyter 6.4.5, elle fait appel aux packages et modules suivants : Selenium (webdriver), re, requests, BeautifulSoup, pandas et time.*
+*Cette application résulte de la collaboration entre Colin Roudnel, Krah K. D. Abraham & Souk Nidal dans le cadre d'un projet en Techniques de programmation (Mars 2022) en Master 1 Analyse et politique économique (APE). Rédigée sur Jupyter 6.4.5, elle fait appel aux packages et modules suivants : Selenium (webdriver), re, requests, BeautifulSoup, pandas et time.*
