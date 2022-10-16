@@ -3,7 +3,7 @@ programming project APE
 
 
 Plan
----
+--
   - *Présentation*
   - *Prise en main*
   - *Conditions d'utilisation*
@@ -12,7 +12,7 @@ Plan
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 PRESENTATION
----
+--
 *Le projet CineVox vise à fournir, à tout utilisateur intéressé par le cinéma, un outil rapide lui permettant d'avoir accès rapidement à la programmation des salles de projection de CineVox à Strasbourg.*
 
 *L'utilisateur peut naviguer dans cette application et explorer la programmation suivant trois grandes catégories : le genre, le titre et la date de projection.*
@@ -25,7 +25,7 @@ PRESENTATION
 ------------------------------
 PRISE EN MAIN
 --
-*Pour naviguer dans cette application, veuillez selectionner le chiffre correspondant à vos choix et suivre les indications.*
+*Pour faire fonctionner le programme il faut tout d’abord créer un compte developpeur chez twitter, ce qui vous permettra d’obtenir un login que vous aller utiliser dans le fichier « twitterplot » en remplissant les champs vides (api_key,..). Ensuite il faut installer toutes les modules qui font fonctionner le programme si ce n’est pas déjà fait et c’est tout comme prérequis*
 
 ------------------------------
 CONDITIONS D'UTILISATION
@@ -34,7 +34,7 @@ CONDITIONS D'UTILISATION
 
 ------------------------------
 DEVELOPPEMENT
----
+--
 *Cette application résulte de la collaboration entre Colin Roudnel, Krah K. D. Abraham & Souk Nidal dans le cadre d'un projet en Techniques de programmation (Mars 2022) en Master 1 Analyse et politique économique (APE). Rédigée sur Jupyter 6.4.5, elle fait appel aux packages et modules suivants : Selenium (webdriver), re, requests, BeautifulSoup, pandas, tkinter et time.*
 
 *Bien qu'elle fournit toutes les informations, elle n'est pas opérationnelle à 100% en raison de la connexion entre l'interface et le programme non encore établie.*
